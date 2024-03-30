@@ -1,3 +1,2 @@
-# AI-doctor
-AI Doctor WebApp built using streamlit.
-
+# AI-Doctor
+AI doctor App built on streamlit
